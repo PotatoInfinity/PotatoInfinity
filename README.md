@@ -5,3 +5,7 @@ I'm a 13-year-old developer passionate about building innovative software and cr
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, JavaScript, C++, C#, Kotlin, GDScript, HTML/CSS
 - **Other Tools:** Scratch (I know, I know... it's legendary 😈)
+
+## 💼 Current Projects=
+
+- **Botano** – A privacy-first AI tutor powered by local LLMs, voice interaction, and animated avatars. Learn anything you want through private personalized interactive courses.
