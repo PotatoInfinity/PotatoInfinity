@@ -1,9 +1,7 @@
-# 👋 Hi there, I'm Louis
+<pre style="background-color:black; color:#00FF00; font-family:Courier New, monospace; padding:15px; border-radius:10px;">
+# Just another tech geek  
+Building cool stuff, breaking it twice, fixing it once.  
+Currently debugging life.
 
-I'm a 13-year-old developer passionate about building innovative software and creative digital experiences. I enjoy working across a wide range of technologies—from web development and game design to artificial intelligence and automation.
-
-## 🛠️ Skills & Technologies
-- **Languages:** Python, JavaScript, C++, C#, Kotlin, GDScript, HTML/CSS
-- **Other Tools:** Scratch (I know, I know... it's legendary 😈)
-
-
+&gt; Warning: May spontaneously start new projects at 3 AM.
+</pre>
